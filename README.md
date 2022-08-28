@@ -3,7 +3,7 @@ nodejs freeboard
 
 
 완---
-로컬DB연결
+로컬DB연결<
 회원가입
 로그인 및 세션
 
